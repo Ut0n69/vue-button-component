@@ -30,9 +30,6 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.red {
-  color: red;
-}
 .button {
   width: 180px;
   height: 50px;
@@ -73,9 +70,5 @@ button:active {
   100% {
     transform: rotate(360deg);
   }
-}
-
-.isHide {
-  display: none;
 }
 </style>
